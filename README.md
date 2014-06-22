@@ -17,9 +17,9 @@ To make it easier to check if particular domain is already registered or not, Iâ
 
 The wrapper script is executed with a single argument that is a domain name. Sample output for twitter.com:
 
-> 4witter.com			dwitter.com  < available
-> pwitter.com			vwitter.com
-> uwitter.com			t7itter.com  < available
+` 4witter.com			dwitter.com  < available`
+` pwitter.com			vwitter.com`
+` uwitter.com			t7itter.com  < available`
 
 tgitter.com			tsitter.com
 
