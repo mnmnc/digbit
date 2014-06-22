@@ -17,53 +17,6 @@ To make it easier to check if particular domain is already registered or not, Iâ
 
 The wrapper script is executed with a single argument that is a domain name. Sample output for twitter.com:
 
-` 4witter.com			dwitter.com  < available`
-` pwitter.com			vwitter.com`
-` uwitter.com			t7itter.com  < available`
-
-tgitter.com			tsitter.com
-
-tuitter.com			tvitter.com
-
-twytter.com			twatter.com
-
-twmtter.com			twktter.com
-
-twhtter.com  < available	twi4ter.com
-
-twidter.com  < available	twipter.com  < available
-
-twivter.com  < available	twiuter.com
-
-twit4er.com			twitder.com
-
-twitper.com			twitver.com  < available
-
-twituer.com			twittur.com
-
-twittmr.com  < available	twittar.com
-
-twittgr.com			twittdr.com
-
-twitte2.com  < available	twitteb.com
-
-twittez.com  < available	twittev.com
-
-twittep.com  < available	twittes.com
-
-twitter.som  < available	twitter.kom  < available
-
-twitter.gom  < available	twitter.aom  < available
-
-twitter.bom  < available	twitter.cgm  < available
-
-twitter.ckm  < available	twitter.cmm  < available
-
-twitter.cnm  < available	twitter.coe  < available
-
-twitter.coi  < available	twitter.coo  < available
-
-twitter.col  < available
 
 
 
