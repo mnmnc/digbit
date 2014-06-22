@@ -17,7 +17,7 @@ To make it easier to check if particular domain is already registered or not, I�
 
 The wrapper script is executed with a single argument that is a domain name. Sample output for twitter.com:
 
+![bitsquatting twitter](https://raw.githubusercontent.com/mnmnc/img/master/digbit1.jpg)
 
 
-
-Some of those reported as available are obviously false-positive since TLDs like kom don’t really exist. I did not removed them because new TLDs are added from time to time and you might as well have a custom domain setup within your LAN.
+Some of those reported as available are obviously false-positive since TLDs like `kom` don’t really exist. I did not removed them because new TLDs are added from time to time and you might as well have a custom domain setup within your LAN.
