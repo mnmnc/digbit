@@ -15,6 +15,8 @@ To make it easier to check if particular domain is already registered or not, Iâ
 	
 > `nslookup domain | grep "NXDOMAIN"`
 
+### Example
+
 The wrapper script is executed with a single argument that is a domain name. Sample output for twitter.com:
 
 ![bitsquatting twitter](https://raw.githubusercontent.com/mnmnc/img/master/digbit1.jpg)
