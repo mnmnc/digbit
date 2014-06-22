@@ -9,33 +9,7 @@ To make it easier to find a domain that is in a single bit-shift distance (as in
 
 For example lets search for domains (bit-wise) close to cnn.com. The script output will be:
 
-* snn.com 
-* knn.com 
-* gnn.com 
-* ann.com 
-* bnn.com 
-* c.n.com 
-* cfn.com 
-* cjn.com 
-* cln.com 
-* con.com 
-* cnf.com 
-* cnj.com 
-* cnl.com 
-* cno.com 
-* cnn.som 
-* cnn.kom 
-* cnn.gom 
-* cnn.aom 
-* cnn.bom 
-* cnn.cgm 
-* cnn.ckm 
-* cnn.cmm 
-* cnn.cnm 
-* cnn.coe 
-* cnn.coi 
-* cnn.coo 
-* cnn.col
+> snn.com knn.com gnn.com ann.com bnn.com c.n.com cfn.com cjn.com cln.com con.com cnf.com cnj.com cnl.com cno.com cnn.som cnn.kom cnn.gom cnn.aom cnn.bom cnn.cgm cnn.ckm cnn.cmm cnn.cnm cnn.coe cnn.coi cnn.coo cnn.col
 
 To make it easier to check if particular domain is already registered or not, I’ve made a wrapper script that will execute the python script and for each generated domain it will execute command:
 1
